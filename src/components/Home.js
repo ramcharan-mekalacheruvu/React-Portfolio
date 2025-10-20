@@ -24,7 +24,7 @@ const Home = () => {
 
         <div className="home-right">
           <img
-            src="/profile2.jpeg"
+            src="/public/profile2.jpeg"
             alt="Profile"
             className="profile-photo large"
           />
