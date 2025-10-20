@@ -1,6 +1,6 @@
 import React from "react";
 import "./styles.css";
-
+import profilePhoto from "./profile2.jpeg";
 const Home = () => {
   return (
     <section id="home" className="section home-section">
@@ -24,7 +24,7 @@ const Home = () => {
 
         <div className="home-right">
           <img
-            src="/public/profile2.jpeg"
+            src="{profilePhoto}
             alt="Profile"
             className="profile-photo large"
           />
